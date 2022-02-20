@@ -1,3 +1,5 @@
+//This is the assignment for CompCraft wk3: Soft Button and Switch 
+//Arduino, C++
 
 int ledPin = 13;
 int sensorPin1 = 2;
